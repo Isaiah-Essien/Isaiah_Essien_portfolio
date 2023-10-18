@@ -3,6 +3,7 @@
 ## Overview
 
 The **Isaiah Essien Portfolio Website** is a one-page scrollable website designed to showcase my skills, work, and projects. It is fully responsive, adapting to all screen sizes, from desktop to tablets and mobiles. The website is designed with user-friendly colors, primarily black and blue (#2bbbe7), and maintains white text for clarity.
+**Video explaining how the website works**: ![Watch the video](https://www.loom.com/share/6577f5e0526041658619d76330805a24)
 
 ![App Screenshot](/Assets/Screenshots/home-wide.png)
 ### Features
