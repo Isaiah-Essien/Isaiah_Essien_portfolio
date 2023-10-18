@@ -40,6 +40,6 @@ The **Isaiah Essien Portfolio Website** is a one-page scrollable website designe
 
 ## Project Link
 
-To explore the website, please visit the [Isaiah Essien Portfolio Website](https://652fe5c536f59844006b192d--cute-otter-d96507.netlify.app/).
+To explore the website, please visit the [Isaiah Essien Portfolio Website](https://isaiah-essien.github.io/Resume-Website-Assignment/).
 
 Feel free to reach out to me via the contact form or connect on my social media profiles for any inquiries or collaborations.
